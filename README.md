@@ -13,7 +13,7 @@
 | Projet | Description |
 |---|---|
 | [sales-report-mailer](https://github.com/Ryarkhewas/sales-report-mailer) | Transforme un export CSV de ventes en rapport Excel mis en forme, puis l'envoie automatiquement par email |
-| [audit-domaine](https://github.com/Ryarkhewas/audit-domaine) | Audit de sécurité passif d'un nom de domaine (HTTPS, en-têtes, SPF/DKIM/DMARC) avec un rapport noté de A à F |
+| [domain-security-check](https://github.com/Ryarkhewas/domain-security-check) | Audit de sécurité passif d'un nom de domaine (HTTPS, en-têtes, SPF/DKIM/DMARC) avec un rapport noté de A à F |
 
 ## 🛠️ Outils
 
