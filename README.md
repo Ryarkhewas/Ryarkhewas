@@ -1,24 +1,24 @@
-# Bonjour, je suis Loïc
+# Hi, I'm Loïc
 
-Étudiant en cybersécurité à l'**EFREI Paris**, je travaille à la frontière entre l'automatisation et la sécurité : écrire des scripts fiables qui font gagner du temps aux équipes, et repérer les failles de configuration avant qu'elles ne posent problème.
+Cybersecurity student at **EFREI Paris**, working where automation meets security: writing reliable scripts that save teams time, and spotting configuration weaknesses before they become a problem.
 
-## Ce que je fais
+## What I do
 
-- **Automatisation Python** : génération de rapports, notifications (Teams, email), traitement de données
-- **DevSecOps** : Docker, GitLab CI, Ansible
-- **Sécurité & supervision** : gestion des vulnérabilités, audit de configuration, Zabbix, Prometheus, conformité NIS 2
+- **Python automation**: report generation, notifications (Teams, email), data processing
+- **DevSecOps**: Docker, GitLab CI, Ansible
+- **Security & monitoring**: vulnerability management, configuration audits, Zabbix, Prometheus, NIS 2 compliance
 
-## Projets
+## Projects
 
-| Projet | Description |
+| Project | Description |
 |---|---|
-| [sales-report-mailer](https://github.com/Ryarkhewas/sales-report-mailer) | Transforme un export CSV de ventes en rapport Excel mis en forme, puis l'envoie automatiquement par email |
-| [domain-security-check](https://github.com/Ryarkhewas/domain-security-check) | Audit de sécurité passif d'un nom de domaine (HTTPS, en-têtes, SPF/DKIM/DMARC) avec un rapport noté de A à F |
+| [sales-report-mailer](https://github.com/Ryarkhewas/sales-report-mailer) | Turns a CSV sales export into a formatted Excel report, then emails it automatically |
+| [domain-security-check](https://github.com/Ryarkhewas/domain-security-check) | Passive security audit of a domain name (HTTPS, headers, SPF/DKIM/DMARC) with a report graded from A to F |
 
-## Outils
+## Tools
 
 Python · pandas · Git · Docker · GitLab CI · Ansible · Linux · Nessus · Zabbix · Prometheus
 
-## Disponibilité
+## Availability
 
-Ouvert à une **alternance en cybersécurité** et à des **missions freelance** d'automatisation ou d'audit de sécurité.
+Open to a **cybersecurity work-study position** (apprenticeship) and to **freelance projects** in automation or security auditing.
