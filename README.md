@@ -22,3 +22,5 @@ Python · pandas · Git · Docker · GitLab CI · Ansible · Linux · Nessus · 
 ## Availability
 
 Open to a **cybersecurity work-study position** (apprenticeship) and to **freelance projects** in automation or security auditing.
+
+Contact: [LinkedIn](https://www.linkedin.com/in/lo%C3%AFc-tellier/)
